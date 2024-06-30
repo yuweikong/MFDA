@@ -1,5 +1,5 @@
 # MFDA
-This is the official pytorch implementation of [MFDA: Unified Multi-Task Architecture for Cross-Scenario Sea Ice Classification] (IEEE TGRS). The code will be open source after acceptance.
+This is the official pytorch implementation of [MFDA: Unified Multi-Task Architecture for Cross-Scenario Sea Ice Classification] (IEEE TGRS). The code will be open sourced after the article is accepted.
 
 <!-- The current version supports Python>=3.8.10, CUDA>=11.3.0 and PyTorch>=1.11.0, but it should work fine with lower versions of CUDA and PyTorch.  -->
 
